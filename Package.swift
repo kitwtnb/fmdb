@@ -22,7 +22,7 @@ let package = Package(
         .target(
             name: "FMDB",
             dependencies: [],
-            path: "src/fmdb",
+            path: "src/fmdb/",
             publicHeadersPath: "."),
     ]
 )
